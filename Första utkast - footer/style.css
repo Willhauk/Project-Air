@@ -138,7 +138,7 @@ body {
     }
 
     .graph:after {
-        transform: rotate(150deg);
+        transform: rotate(100deg);
     }
 
 @keyframes demo {
@@ -147,6 +147,6 @@ body {
     }
 
     50% {
-        transform: rotate(180deg)
+        transform: rotate(100deg)
     }
 }
