@@ -1,5 +1,7 @@
 # Project-Air
 
+DONT FORGET TO FETCH AND GIT PULL BEFORE COMMITING.
+
 Create a new branch by issuing the command:
 
 git checkout -b new_branch
