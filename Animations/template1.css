@@ -1,0 +1,54 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.square1 {
+    background:rgb(49, 59, 82);
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    top: 110px;
+    left: 180px;
+    transform: rotate(-45deg);
+    clip-path: polygon(0 0, 100% 0, 70% 100%, 25% 100%);
+    border-radius: 100px 100px 0 0;
+    
+}
+
+.square2 {
+    background:rgb(49, 59, 82);
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    top: 120px;
+    right: 180px;
+    transform: rotate(45deg);
+    clip-path: polygon(0 0, 100% 0, 70% 100%, 25% 100%);
+    border-radius: 100px 100px 0 0;
+
+
+}
+
+.square3 {
+    background:rgb(49, 59, 82);
+    position: absolute;
+    width: 300px;
+    height: 450px;
+    top: 30px;
+    clip-path: polygon(0 0, 100% 0, 70% 100%, 25% 100%);
+    border-radius: 100px 100px 0 0;
+
+
+}
+
+.circle {
+    background: rgb(70, 106, 184);
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    top: 500px;
+    left: 550px;
+}
