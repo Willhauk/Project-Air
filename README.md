@@ -1,18 +1,35 @@
-# Project-Air
+# Project Air
 
-DONT FORGET TO FETCH AND GIT PULL BEFORE COMMITING.
+![GitHub last commit](https://img.shields.io/github/last-commit/Park87/Project-Air)
+![GitHub repo size](https://img.shields.io/github/repo-size/Park87/Project-Air)
+![GitHub contributors](https://img.shields.io/github/contributors/Park87/Project-Air)
 
-Create a new branch by issuing the command:
+Code for a smart display showing total CO2 emissions for fruits.
 
-git checkout -b new_branch
+## Contributing to this project
+To contribute to this project, follow these steps:
 
-Create a new remote for the upstream repo with the command:
+1. Fork this repository and clone your fork.
+2. Make your changes.
+3. Add, commit and push them: `git add *` `git commit -m '<commit_message>'` `git push`
+4. Create the pull request from your fork to the original repository on Github.
 
-git remote add upstream https://github.com/Park87/Project-Air
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
+<!--
 
-git add *
+## Contributors
 
-git commit -m "Förklaring på vad du pushar"
+Thanks to the following people who have contributed to this project:
 
-git push -u origin din_bransh               (Exempel Wireframes, movies etc...)
+* [@seetee](https://github.com/seetee)
+
+## Contact
+
+If you want to contact me you can reach me on Twitter @alltinomit.
+
+## License
+
+![Code License](https://img.shields.io/github/license/axelekenberg/projectfruit)
+
+-->
