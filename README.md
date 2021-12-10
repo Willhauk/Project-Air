@@ -34,23 +34,3 @@ If you want to contact me you can reach me on Twitter @alltinomit.
 ![Code License](https://img.shields.io/github/license/axelekenberg/projectfruit)
 
 -->
-
-
-# Project-Air
-
-DONT FORGET TO FETCH AND GIT PULL BEFORE COMMITING.
-
-Create a new branch by issuing the command:
-
-git checkout -b new_branch
-
-Create a new remote for the upstream repo with the command:
-
-git remote add upstream https://github.com/Park87/Project-Air
-
-
-git add *
-
-git commit -m "Förklaring på vad du pushar"
-
-git push -u origin din_bransh               (Exempel Wireframes, movies etc...)
