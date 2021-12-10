@@ -4,7 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Park87/Project-Air)
 ![GitHub contributors](https://img.shields.io/github/contributors/Park87/Project-Air)
 
-Code for a smart display showing total CO2 emissions for fruits.
+Incase you forgot the commands to commit, push etc...
 
 ## Contributing to this project
 To contribute to this project, follow these steps:
