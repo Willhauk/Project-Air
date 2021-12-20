@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="21.92441mm"
+   height="33.837616mm"
+   viewBox="0 0 21.92441 33.837617"
+   version="1.1"
+   id="svg30924"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="FLASKA.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30926"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.49260384"
+     inkscape:cx="-354.24003"
+     inkscape:cy="99.471414"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs30921" />
+  <g
+     inkscape:label="Lager 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-108.53881,-151.7351)">
+    <path
+       id="path36418"
+       style="fill:#eaf6fd;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 113.5906,151.78525 0.0672,1.98075 0.47025,0.53692 -0.0336,3.18895 c -1.93003,0.0134 -5.42563,2.23278 -5.43843,5.40484 l -0.0672,16.58349 c 0.2045,2.12082 1.67597,3.70068 3.55844,5.2033 v 0.83922 h 14.53555 v -0.83922 c 1.89606,-0.71122 3.82987,-3.49135 3.72639,-5.2033 v -16.58349 c 0,-2.53747 -2.36623,-5.06442 -5.30407,-5.53919 v -2.98742 l 0.36948,-0.46974 -0.0336,-2.08152 z m 0.44029,13.779 c 0.86495,0.0267 5.58421,0.8632 7.85172,2.43499 3.54461,2.45705 3.85535,7.32383 3.28972,7.28483 -2.85235,-5.04483 -5.32215,-6.39317 -7.82175,-7.11688 3.18179,2.16786 5.24041,4.97298 6.81457,7.85534 0.14471,0.60779 -5.12265,0.77565 -7.25072,-2.1823 -1.7118,-2.37935 -3.02152,-8.25789 -3.02152,-8.25789 0,-0.0146 0.0485,-0.0208 0.13798,-0.0181 z" />
+  </g>
+</svg>
